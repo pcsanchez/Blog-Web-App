@@ -1,0 +1,25 @@
+{
+  "name": "blog-web-app",
+  "version": "1.0.0",
+  "description": "Blog develeoped for web dev bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcsanchez/Blog-Web-App.git"
+  },
+  "author": "Francisco Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcsanchez/Blog-Web-App/issues"
+  },
+  "homepage": "https://github.com/pcsanchez/Blog-Web-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.9"
+  }
+}
